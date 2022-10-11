@@ -1,7 +1,7 @@
 hello atguigu! hello git! hello world
 hello atguigu! hello git! 这个文件夹是git的工作区
 hello atguigu! hello git! ttttttt
-hello atguigu! hello git! 这是一个hotfit修改的
+hello atguigu! hello git! 这是一个hotfit修改�?
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
@@ -14,3 +14,4 @@ hello atguigu! hello git!
 hello atguigu! hello git! hot-fix test
 hello atguigu! hello git! this is a tesd
 11111111111111111
+22222222222222222 by cloneFile
